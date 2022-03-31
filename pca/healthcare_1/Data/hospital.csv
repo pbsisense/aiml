@@ -1,0 +1,315 @@
+Years in Admission_Time,Death,Diagnosis_ID,Years in Discharge_Time,Doctor_ID,HAI,Years in Patient_ID,Room_ID,SSI,Surgical_Procedure,Description,Divison_name,ID,Full Name,Specialty,Total Cost_of_admission,Total Time of Stay,Total Bed_count,Total Room_number
+2013,No,1,2013,2,No,,43,No,No,Diabetes,Neurology,4,Kimberley Cortez,Oncology,"1,637,732.08",442,2,502
+2013,No,1,2013,3,No,,4,No,No,Diabetes,Pediatrics,2,Uma Conley,Pediatrics,"1,274,894.80",128,2,312
+2013,No,1,2013,3,No,,23,No,No,Diabetes,Neurology,4,Uma Conley,Pediatrics,"1,716,936.70",88,2,620
+2013,No,1,2013,4,No,,42,No,Yes,Diabetes,Oncology,1,Imogene Fletcher,Cardiology,"2,295,941.84",408,2,226
+2013,No,1,2013,4,No,,49,No,Yes,Diabetes,Oncology,1,Imogene Fletcher,Cardiology,"1,409,824.38",220,4,486
+2013,No,1,2013,5,No,,18,No,Yes,Diabetes,Cardiology,3,Winifred Sharp,Oncology,"1,574,868.20",362,2,226
+2013,No,1,2013,5,No,,21,No,No,Diabetes,Neurology,4,Winifred Sharp,Oncology,"1,094,510.42",362,2,406
+2013,No,1,2013,7,No,,60,No,No,Diabetes,Cardiology,3,Janna Pennington,Cardiology,"1,214,606.72",128,4,314
+2013,No,1,2013,8,No,,4,No,No,Diabetes,Pediatrics,2,Paki Zimmerman,Pediatrics,"1,155,607.76",246,2,312
+2013,No,1,2013,8,No,,32,No,No,Diabetes,Operating Rooms,5,Paki Zimmerman,Pediatrics,"2,183,550.72",354,2,302
+2013,No,1,2013,10,No,,10,No,No,Diabetes,Neurology,4,Donna Bates,Neurology,"1,330,933.92",418,2,374
+2013,No,1,2013,11,No,,21,No,No,Diabetes,Neurology,4,Aline Jackson,Emergency Room,"2,175,546.70",128,2,406
+2013,No,2,2013,1,No,,1,No,No,Chemotheraphy,Operating Rooms,5,Eleanor Freeman,Pediatrics,"1,765,544.12",124,2,306
+2013,No,2,2013,2,No,,16,No,Yes,Chemotheraphy,Pediatrics,2,Kimberley Cortez,Oncology,"2,406,037.64",438,2,464
+2013,No,2,2013,2,No,,23,No,Yes,Chemotheraphy,Neurology,4,Kimberley Cortez,Oncology,"1,466,392.20",170,2,620
+2013,No,2,2013,2,No,,29,No,Yes,Chemotheraphy,Operating Rooms,5,Kimberley Cortez,Oncology,"2,031,657.48",264,2,212
+2013,No,2,2013,2,No,,30,No,No,Chemotheraphy,Cardiology,3,Kimberley Cortez,Oncology,"1,539,777.48",418,2,558
+2013,No,2,2013,2,No,,37,No,Yes,Chemotheraphy,Neurology,4,Kimberley Cortez,Oncology,"1,072,589.70",362,2,530
+2013,No,2,2013,2,No,,58,No,No,Chemotheraphy,Pediatrics,2,Kimberley Cortez,Oncology,"663,049.78",40,4,536
+2013,No,2,2013,3,No,,44,No,No,Chemotheraphy,Cardiology,3,Uma Conley,Pediatrics,"2,461,143.18",326,2,228
+2013,No,2,2013,4,No,,15,No,No,Chemotheraphy,Oncology,1,Imogene Fletcher,Cardiology,"1,469,446.74",118,4,390
+2013,No,2,2013,5,No,,16,No,No,Chemotheraphy,Pediatrics,2,Winifred Sharp,Oncology,"1,069,634.94",406,2,464
+2013,No,2,2013,5,No,,20,No,No,Chemotheraphy,Cardiology,3,Winifred Sharp,Oncology,"851,860.18",98,2,354
+2013,No,2,2013,5,No,,60,No,Yes,Chemotheraphy,Cardiology,3,Winifred Sharp,Oncology,"1,701,255.92",168,4,314
+2013,No,2,2013,6,Yes,,50,No,No,Chemotheraphy,Oncology,1,Porter Ware,Surgeon,"530,343.22",40,2,380
+2013,No,2,2013,9,No,,1,No,Yes,Chemotheraphy,Operating Rooms,5,Jermaine Vaughn,Emergency Room,"1,275,239.92",116,2,306
+2013,No,2,2013,10,No,,27,No,Yes,Chemotheraphy,Operating Rooms,5,Donna Bates,Neurology,"1,222,426.66",130,2,288
+2013,No,2,2013,11,No,,10,Yes,Yes,Chemotheraphy,Neurology,4,Aline Jackson,Emergency Room,"1,349,912.44",168,2,374
+2013,No,2,2013,11,No,,49,No,No,Chemotheraphy,Oncology,1,Aline Jackson,Emergency Room,"2,221,547.68",202,4,486
+2013,No,2,2013,12,No,,3,No,Yes,Chemotheraphy,Oncology,1,Cassady Wells,Oncology,"845,206.42",234,2,294
+2013,No,2,2013,12,No,,15,No,No,Chemotheraphy,Oncology,1,Cassady Wells,Oncology,"1,242,904.72",176,4,390
+2013,No,3,2013,1,No,,31,No,Yes,Bypass,Neurology,4,Eleanor Freeman,Pediatrics,"879,605.80",66,4,340
+2013,No,3,2013,1,No,,43,No,No,Bypass,Neurology,4,Eleanor Freeman,Pediatrics,"2,596,877.20",232,2,502
+2013,No,3,2013,2,No,,2,No,Yes,Bypass,Oncology,1,Kimberley Cortez,Oncology,"1,100,496.52",218,2,596
+2013,No,3,2013,2,No,,28,No,No,Bypass,Cardiology,3,Kimberley Cortez,Oncology,"2,196,618.10",222,2,490
+2013,No,3,2013,2,No,,34,No,No,Bypass,Cardiology,3,Kimberley Cortez,Oncology,"2,465,387.86",466,2,340
+2013,No,3,2013,4,No,,15,No,No,Bypass,Oncology,1,Imogene Fletcher,Cardiology,"766,050.86",124,4,390
+2013,No,3,2013,5,No,,5,No,Yes,Bypass,Cardiology,3,Winifred Sharp,Oncology,"1,470,918.78",370,2,202
+2013,No,3,2013,5,No,,13,No,Yes,Bypass,Cardiology,3,Winifred Sharp,Oncology,"2,448,117.24",304,4,496
+2013,No,3,2013,6,No,,52,No,No,Bypass,Operating Rooms,5,Porter Ware,Surgeon,"2,206,108.48",108,4,230
+2013,No,3,2013,7,No,,14,No,No,Bypass,Oncology,1,Janna Pennington,Cardiology,"1,147,153.54",104,2,260
+2013,No,3,2013,8,No,,29,No,No,Bypass,Operating Rooms,5,Paki Zimmerman,Pediatrics,"2,259,602.96",126,2,212
+2013,No,3,2013,8,No,,39,No,Yes,Bypass,Pediatrics,2,Paki Zimmerman,Pediatrics,"860,022.52",318,2,336
+2013,No,3,2013,8,No,,52,No,Yes,Bypass,Operating Rooms,5,Paki Zimmerman,Pediatrics,"2,304,552.90",180,4,230
+2013,No,3,2013,9,No,,1,No,No,Bypass,Operating Rooms,5,Jermaine Vaughn,Emergency Room,"1,733,799.26",18,2,306
+2013,No,3,2013,9,No,,16,No,Yes,Bypass,Pediatrics,2,Jermaine Vaughn,Emergency Room,"544,485.72",14,2,464
+2013,No,3,2013,9,No,,59,No,Yes,Bypass,Neurology,4,Jermaine Vaughn,Emergency Room,"2,598,239.04",388,4,582
+2013,No,3,2013,10,No,,22,No,No,Bypass,Pediatrics,2,Donna Bates,Neurology,"558,817.28",386,2,454
+2013,No,3,2013,10,No,,24,No,Yes,Bypass,Pediatrics,2,Donna Bates,Neurology,"939,222.28",460,2,508
+2013,No,3,2013,10,No,,25,No,No,Bypass,Operating Rooms,5,Donna Bates,Neurology,"2,233,020.12",404,2,532
+2013,No,3,2013,10,No,,26,No,No,Bypass,Pediatrics,2,Donna Bates,Neurology,"1,432,777.78",328,4,584
+2013,No,3,2013,10,No,,29,No,Yes,Bypass,Operating Rooms,5,Donna Bates,Neurology,"1,448,431.66",302,2,212
+2013,No,3,2013,10,No,,37,No,Yes,Bypass,Neurology,4,Donna Bates,Neurology,"1,504,386.02",314,2,530
+2013,No,3,2013,12,No,,49,No,No,Bypass,Oncology,1,Cassady Wells,Oncology,"1,361,238.02",92,4,486
+2013,No,4,2013,1,No,,6,No,No,Cardiac Arrest,Operating Rooms,5,Eleanor Freeman,Pediatrics,"599,749.22",260,2,600
+2013,No,4,2013,1,No,,15,No,Yes,Cardiac Arrest,Oncology,1,Eleanor Freeman,Pediatrics,"1,427,792.26",334,4,390
+2013,No,4,2013,1,No,,21,No,No,Cardiac Arrest,Neurology,4,Eleanor Freeman,Pediatrics,"2,439,957.26",358,2,406
+2013,No,4,2013,1,No,,33,No,Yes,Cardiac Arrest,Cardiology,3,Eleanor Freeman,Pediatrics,"1,358,599.80",268,2,502
+2013,No,4,2013,1,No,,35,No,No,Cardiac Arrest,Pediatrics,2,Eleanor Freeman,Pediatrics,"2,300,784.34",394,2,346
+2013,No,4,2013,1,No,,60,No,Yes,Cardiac Arrest,Cardiology,3,Eleanor Freeman,Pediatrics,"1,693,696.12",26,4,314
+2013,No,4,2013,2,No,,5,No,Yes,Cardiac Arrest,Cardiology,3,Kimberley Cortez,Oncology,"2,511,004.26",168,2,202
+2013,No,4,2013,2,No,,17,No,Yes,Cardiac Arrest,Oncology,1,Kimberley Cortez,Oncology,"614,835.14",138,2,388
+2013,No,4,2013,2,No,,36,No,Yes,Cardiac Arrest,Cardiology,3,Kimberley Cortez,Oncology,"1,324,119.54",158,2,468
+2013,No,4,2013,2,No,,38,No,No,Cardiac Arrest,Cardiology,3,Kimberley Cortez,Oncology,"1,062,115.22",310,2,364
+2013,No,4,2013,3,No,,5,No,Yes,Cardiac Arrest,Cardiology,3,Uma Conley,Pediatrics,"1,413,212.16",170,2,202
+2013,No,4,2013,3,No,,8,No,No,Cardiac Arrest,Neurology,4,Uma Conley,Pediatrics,"794,725.88",62,2,576
+2013,No,4,2013,3,No,,21,No,No,Cardiac Arrest,Neurology,4,Uma Conley,Pediatrics,"2,160,940.80",104,2,406
+2013,No,4,2013,4,No,,38,No,No,Cardiac Arrest,Cardiology,3,Imogene Fletcher,Cardiology,"1,900,094.02",64,2,364
+2013,No,4,2013,4,No,,46,No,No,Cardiac Arrest,Oncology,1,Imogene Fletcher,Cardiology,"1,455,549.90",190,2,480
+2013,No,4,2013,5,No,,1,No,Yes,Cardiac Arrest,Operating Rooms,5,Winifred Sharp,Oncology,"620,487.28",434,2,306
+2013,No,4,2013,5,No,,2,No,Yes,Cardiac Arrest,Oncology,1,Winifred Sharp,Oncology,"2,412,947.26",446,2,596
+2013,No,4,2013,5,No,,12,No,No,Cardiac Arrest,Neurology,4,Winifred Sharp,Oncology,"2,266,341.90",114,2,244
+2013,No,4,2013,5,No,,23,No,Yes,Cardiac Arrest,Neurology,4,Winifred Sharp,Oncology,"910,156.70",422,2,620
+2013,No,4,2013,6,No,,6,No,No,Cardiac Arrest,Operating Rooms,5,Porter Ware,Surgeon,"999,514.82",156,2,600
+2013,No,4,2013,6,No,,10,No,Yes,Cardiac Arrest,Neurology,4,Porter Ware,Surgeon,"1,469,170.82",30,2,374
+2013,No,4,2013,6,No,,21,No,Yes,Cardiac Arrest,Neurology,4,Porter Ware,Surgeon,"1,944,773.04",230,2,406
+2013,No,4,2013,6,No,,49,No,No,Cardiac Arrest,Oncology,1,Porter Ware,Surgeon,"1,435,520.38",366,4,486
+2013,No,4,2013,6,No,,53,No,No,Cardiac Arrest,Cardiology,3,Porter Ware,Surgeon,"2,214,199.58",222,2,276
+2013,No,4,2013,8,No,,33,No,No,Cardiac Arrest,Cardiology,3,Paki Zimmerman,Pediatrics,"1,261,000.12",8,2,502
+2013,No,4,2013,8,No,,42,No,Yes,Cardiac Arrest,Oncology,1,Paki Zimmerman,Pediatrics,"1,331,950.44",250,2,226
+2013,No,4,2013,8,No,,43,No,No,Cardiac Arrest,Neurology,4,Paki Zimmerman,Pediatrics,"538,944.80",370,2,502
+2013,No,4,2013,8,No,,57,No,No,Cardiac Arrest,Operating Rooms,5,Paki Zimmerman,Pediatrics,"1,502,786.98",328,2,406
+2013,No,4,2013,9,No,,36,No,No,Cardiac Arrest,Cardiology,3,Jermaine Vaughn,Emergency Room,"1,629,859.42",412,2,468
+2013,No,4,2013,9,No,,42,No,No,Cardiac Arrest,Oncology,1,Jermaine Vaughn,Emergency Room,"1,693,119.30",362,2,226
+2013,No,4,2013,9,No,,47,No,Yes,Cardiac Arrest,Cardiology,3,Jermaine Vaughn,Emergency Room,"1,514,753.12",476,4,296
+2013,No,4,2013,10,No,,16,No,Yes,Cardiac Arrest,Pediatrics,2,Donna Bates,Neurology,"1,587,977",52,2,464
+2013,No,4,2013,10,No,,22,No,No,Cardiac Arrest,Pediatrics,2,Donna Bates,Neurology,"1,500,846.16",108,2,454
+2013,No,4,2013,10,No,,33,No,No,Cardiac Arrest,Cardiology,3,Donna Bates,Neurology,"732,369.66",428,2,502
+2013,No,4,2013,10,No,,43,No,No,Cardiac Arrest,Neurology,4,Donna Bates,Neurology,"1,550,763.78",382,2,502
+2013,No,4,2013,11,No,,5,No,No,Cardiac Arrest,Cardiology,3,Aline Jackson,Emergency Room,"740,062.46",194,2,202
+2013,No,4,2013,11,No,,32,No,Yes,Cardiac Arrest,Operating Rooms,5,Aline Jackson,Emergency Room,"1,908,406.48",260,2,302
+2013,No,4,2013,11,No,,39,No,No,Cardiac Arrest,Pediatrics,2,Aline Jackson,Emergency Room,"2,515,721.36",398,2,336
+2013,No,4,2013,11,No,,52,No,Yes,Cardiac Arrest,Operating Rooms,5,Aline Jackson,Emergency Room,"852,816.78",106,4,230
+2013,No,4,2013,11,No,,57,No,No,Cardiac Arrest,Operating Rooms,5,Aline Jackson,Emergency Room,"1,004,242.22",172,2,406
+2013,No,4,2013,12,No,,25,No,No,Cardiac Arrest,Operating Rooms,5,Cassady Wells,Oncology,"535,577.58",236,2,532
+2013,No,5,2013,1,No,,22,No,No,Radiotheraphy,Pediatrics,2,Eleanor Freeman,Pediatrics,"1,721,514.06",168,2,454
+2013,No,5,2013,1,No,,38,No,No,Radiotheraphy,Cardiology,3,Eleanor Freeman,Pediatrics,"504,633.80",252,2,364
+2013,No,5,2013,1,No,,41,No,Yes,Radiotheraphy,Cardiology,3,Eleanor Freeman,Pediatrics,"1,052,638.30",474,2,394
+2013,No,5,2013,1,No,,50,No,Yes,Radiotheraphy,Oncology,1,Eleanor Freeman,Pediatrics,"624,200.16",222,2,380
+2013,No,5,2013,3,No,,17,No,Yes,Radiotheraphy,Oncology,1,Uma Conley,Pediatrics,"664,928.30",110,2,388
+2013,No,5,2013,3,No,,20,No,Yes,Radiotheraphy,Cardiology,3,Uma Conley,Pediatrics,"1,731,319.10",4,2,354
+2013,No,5,2013,5,No,,9,No,No,Radiotheraphy,Operating Rooms,5,Winifred Sharp,Oncology,"1,691,194.30",440,2,452
+2013,No,5,2013,5,No,,12,No,Yes,Radiotheraphy,Neurology,4,Winifred Sharp,Oncology,"2,193,917.96",10,2,244
+2013,No,5,2013,5,No,,40,No,No,Radiotheraphy,Neurology,4,Winifred Sharp,Oncology,"1,632,304.36",16,2,296
+2013,No,5,2013,6,No,,10,No,No,Radiotheraphy,Neurology,4,Porter Ware,Surgeon,"738,180.88",150,2,374
+2013,No,5,2013,6,No,,20,No,No,Radiotheraphy,Cardiology,3,Porter Ware,Surgeon,"2,359,820.96",390,2,354
+2013,No,5,2013,6,No,,23,No,No,Radiotheraphy,Neurology,4,Porter Ware,Surgeon,"864,198.10",308,2,620
+2013,No,5,2013,6,No,,42,No,No,Radiotheraphy,Oncology,1,Porter Ware,Surgeon,"1,096,853.16",56,2,226
+2013,No,5,2013,6,No,,55,No,No,Radiotheraphy,Operating Rooms,5,Porter Ware,Surgeon,"1,177,837.94",380,4,244
+2013,No,5,2013,8,No,,4,No,No,Radiotheraphy,Pediatrics,2,Paki Zimmerman,Pediatrics,"1,349,515.14",182,2,312
+2013,No,5,2013,10,No,,39,No,Yes,Radiotheraphy,Pediatrics,2,Donna Bates,Neurology,"2,240,353.66",348,2,336
+2013,No,5,2013,10,No,,43,No,Yes,Radiotheraphy,Neurology,4,Donna Bates,Neurology,"1,958,837.06",170,2,502
+2013,No,5,2013,10,No,,51,No,Yes,Radiotheraphy,Operating Rooms,5,Donna Bates,Neurology,"905,373.76",294,4,450
+2013,No,5,2013,11,No,,27,No,Yes,Radiotheraphy,Operating Rooms,5,Aline Jackson,Emergency Room,"2,272,677.70",374,2,288
+2013,No,5,2013,11,No,,43,No,Yes,Radiotheraphy,Neurology,4,Aline Jackson,Emergency Room,"1,896,106.30",390,2,502
+2013,No,5,2013,12,No,,27,No,No,Radiotheraphy,Operating Rooms,5,Cassady Wells,Oncology,"1,729,449.56",152,2,288
+2013,No,5,2013,12,No,,59,Yes,Yes,Radiotheraphy,Neurology,4,Cassady Wells,Oncology,"1,204,342.90",356,4,582
+2013,No,6,2013,1,No,,9,No,Yes,Hypoglycemia,Operating Rooms,5,Eleanor Freeman,Pediatrics,"1,932,897.62",244,2,452
+2013,No,6,2013,1,No,,23,No,No,Hypoglycemia,Neurology,4,Eleanor Freeman,Pediatrics,"1,843,042.84",178,2,620
+2013,No,6,2013,1,No,,27,No,No,Hypoglycemia,Operating Rooms,5,Eleanor Freeman,Pediatrics,"2,154,299.22",240,2,288
+2013,No,6,2013,1,No,,31,No,No,Hypoglycemia,Neurology,4,Eleanor Freeman,Pediatrics,"2,131,253.58",358,4,340
+2013,No,6,2013,1,No,,49,No,Yes,Hypoglycemia,Oncology,1,Eleanor Freeman,Pediatrics,"1,788,085.96",412,4,486
+2013,No,6,2013,1,No,,55,No,No,Hypoglycemia,Operating Rooms,5,Eleanor Freeman,Pediatrics,"1,446,908.80",216,4,244
+2013,No,6,2013,2,No,,42,No,No,Hypoglycemia,Oncology,1,Kimberley Cortez,Oncology,"1,218,705.04",28,2,226
+2013,No,6,2013,2,No,,44,No,No,Hypoglycemia,Cardiology,3,Kimberley Cortez,Oncology,"738,888.06",414,2,228
+2013,No,6,2013,3,No,,48,No,No,Hypoglycemia,Operating Rooms,5,Uma Conley,Pediatrics,"2,488,478.24",238,2,532
+2013,No,6,2013,4,No,,10,No,Yes,Hypoglycemia,Neurology,4,Imogene Fletcher,Cardiology,"894,658.28",0,2,374
+2013,No,6,2013,4,No,,12,No,No,Hypoglycemia,Neurology,4,Imogene Fletcher,Cardiology,"702,954.72",476,2,244
+2013,No,6,2013,4,No,,18,No,Yes,Hypoglycemia,Cardiology,3,Imogene Fletcher,Cardiology,"1,620,585.52",160,2,226
+2013,No,6,2013,4,No,,19,No,Yes,Hypoglycemia,Cardiology,3,Imogene Fletcher,Cardiology,"822,682.66",212,2,402
+2013,No,6,2013,4,No,,32,No,Yes,Hypoglycemia,Operating Rooms,5,Imogene Fletcher,Cardiology,"1,953,784.98",204,2,302
+2013,No,6,2013,4,No,,56,No,No,Hypoglycemia,Pediatrics,2,Imogene Fletcher,Cardiology,"768,732",18,4,200
+2013,No,6,2013,4,No,,57,No,No,Hypoglycemia,Operating Rooms,5,Imogene Fletcher,Cardiology,"2,260,585.06",236,2,406
+2013,No,6,2013,4,No,,57,No,Yes,Hypoglycemia,Operating Rooms,5,Imogene Fletcher,Cardiology,"2,251,879.90",448,2,406
+2013,No,6,2013,5,No,,3,No,Yes,Hypoglycemia,Oncology,1,Winifred Sharp,Oncology,"2,304,493.16",68,2,294
+2013,No,6,2013,6,No,,22,No,No,Hypoglycemia,Pediatrics,2,Porter Ware,Surgeon,"1,381,186.68",108,2,454
+2013,No,6,2013,6,No,,41,No,Yes,Hypoglycemia,Cardiology,3,Porter Ware,Surgeon,"750,243.78",100,2,394
+2013,No,6,2013,6,No,,54,No,Yes,Hypoglycemia,Pediatrics,2,Porter Ware,Surgeon,"704,412.46",220,4,326
+2013,No,6,2013,7,No,,5,No,No,Hypoglycemia,Cardiology,3,Janna Pennington,Cardiology,"638,791.46",0,2,202
+2013,No,6,2013,7,No,,24,No,Yes,Hypoglycemia,Pediatrics,2,Janna Pennington,Cardiology,"986,540.46",414,2,508
+2013,No,6,2013,7,No,,48,No,No,Hypoglycemia,Operating Rooms,5,Janna Pennington,Cardiology,"1,375,524.90",198,2,532
+2013,No,6,2013,8,No,,7,No,Yes,Hypoglycemia,Oncology,1,Paki Zimmerman,Pediatrics,"1,822,960.82",0,2,564
+2013,No,6,2013,8,No,,47,No,Yes,Hypoglycemia,Cardiology,3,Paki Zimmerman,Pediatrics,"685,024.78",152,4,296
+2013,No,6,2013,10,No,,22,No,No,Hypoglycemia,Pediatrics,2,Donna Bates,Neurology,"1,744,328.88",4,2,454
+2013,No,6,2013,11,No,,7,No,No,Hypoglycemia,Oncology,1,Aline Jackson,Emergency Room,"1,445,524.26",342,2,564
+2013,No,6,2013,11,No,,15,No,Yes,Hypoglycemia,Oncology,1,Aline Jackson,Emergency Room,"1,849,779.58",256,4,390
+2013,No,6,2013,11,No,,20,No,Yes,Hypoglycemia,Cardiology,3,Aline Jackson,Emergency Room,"2,255,372.28",30,2,354
+2013,No,6,2013,11,No,,48,No,No,Hypoglycemia,Operating Rooms,5,Aline Jackson,Emergency Room,"1,622,289.44",76,2,532
+2013,No,6,2013,11,No,,50,No,No,Hypoglycemia,Oncology,1,Aline Jackson,Emergency Room,"2,174,576.32",290,2,380
+2013,No,6,2013,11,No,,53,No,No,Hypoglycemia,Cardiology,3,Aline Jackson,Emergency Room,"1,906,298.26",116,2,276
+2013,No,6,2013,12,No,,8,No,No,Hypoglycemia,Neurology,4,Cassady Wells,Oncology,"2,544,967.18",386,2,576
+2013,No,6,2013,12,No,,45,No,Yes,Hypoglycemia,Oncology,1,Cassady Wells,Oncology,"2,442,170.10",128,4,240
+2013,No,7,2013,1,No,,35,No,Yes,EKG,Pediatrics,2,Eleanor Freeman,Pediatrics,"1,085,901.32",386,2,346
+2013,No,7,2013,1,No,,58,No,No,EKG,Pediatrics,2,Eleanor Freeman,Pediatrics,"2,137,197.78",42,4,536
+2013,No,7,2013,3,No,,1,No,Yes,EKG,Operating Rooms,5,Uma Conley,Pediatrics,"1,007,087.28",144,2,306
+2013,No,7,2013,3,No,,31,No,Yes,EKG,Neurology,4,Uma Conley,Pediatrics,"1,347,438.68",404,4,340
+2013,No,7,2013,3,No,,51,No,Yes,EKG,Operating Rooms,5,Uma Conley,Pediatrics,"1,866,798.54",292,4,450
+2013,No,7,2013,3,No,,59,No,Yes,EKG,Neurology,4,Uma Conley,Pediatrics,"2,388,655.88",96,4,582
+2013,No,7,2013,4,No,,46,No,No,EKG,Oncology,1,Imogene Fletcher,Cardiology,"2,307,448.64",362,2,480
+2013,No,7,2013,4,No,,53,No,No,EKG,Cardiology,3,Imogene Fletcher,Cardiology,"1,698,331.08",90,2,276
+2013,No,7,2013,5,No,,6,No,Yes,EKG,Operating Rooms,5,Winifred Sharp,Oncology,"1,321,535.74",372,2,600
+2013,No,7,2013,6,No,,9,No,Yes,EKG,Operating Rooms,5,Porter Ware,Surgeon,"2,040,135.10",318,2,452
+2013,No,7,2013,6,No,,35,No,No,EKG,Pediatrics,2,Porter Ware,Surgeon,"1,825,013.38",290,2,346
+2013,No,7,2013,7,No,,18,No,Yes,EKG,Cardiology,3,Janna Pennington,Cardiology,"2,203,798.94",424,2,226
+2013,No,7,2013,8,No,,48,No,No,EKG,Operating Rooms,5,Paki Zimmerman,Pediatrics,"1,331,528.88",286,2,532
+2013,No,7,2013,9,No,,56,No,Yes,EKG,Pediatrics,2,Jermaine Vaughn,Emergency Room,"1,508,308.54",36,4,200
+2013,No,7,2013,10,No,,6,No,No,EKG,Operating Rooms,5,Donna Bates,Neurology,"1,101,780.70",380,2,600
+2013,No,7,2013,10,No,,59,No,Yes,EKG,Neurology,4,Donna Bates,Neurology,"1,209,488.66",360,4,582
+2013,No,7,2013,11,No,,9,No,Yes,EKG,Operating Rooms,5,Aline Jackson,Emergency Room,"957,694.12",476,2,452
+2013,No,7,2013,11,No,,13,No,No,EKG,Cardiology,3,Aline Jackson,Emergency Room,"1,936,651.30",40,4,496
+2013,No,7,2013,11,No,,15,No,Yes,EKG,Oncology,1,Aline Jackson,Emergency Room,"1,923,398.06",142,4,390
+2013,No,7,2013,11,No,,35,No,No,EKG,Pediatrics,2,Aline Jackson,Emergency Room,"1,150,883.80",90,2,346
+2013,No,7,2013,12,No,,24,No,No,EKG,Pediatrics,2,Cassady Wells,Oncology,"1,129,736.66",340,2,508
+2013,No,7,2013,12,No,,32,No,No,EKG,Operating Rooms,5,Cassady Wells,Oncology,"1,581,135.58",258,2,302
+2013,No,7,2013,12,No,,34,No,No,EKG,Cardiology,3,Cassady Wells,Oncology,"809,101.84",474,2,340
+2013,No,7,2013,12,No,,46,No,No,EKG,Oncology,1,Cassady Wells,Oncology,"2,326,953.54",16,2,480
+2013,No,8,2013,1,No,,18,No,Yes,Chronic Headache,Cardiology,3,Eleanor Freeman,Pediatrics,"1,070,827.26",4,2,226
+2013,No,8,2013,2,No,,20,No,Yes,Chronic Headache,Cardiology,3,Kimberley Cortez,Oncology,"1,120,621.32",244,2,354
+2013,No,8,2013,2,No,,23,No,Yes,Chronic Headache,Neurology,4,Kimberley Cortez,Oncology,"511,585.22",136,2,620
+2013,No,8,2013,2,No,,27,No,No,Chronic Headache,Operating Rooms,5,Kimberley Cortez,Oncology,"785,775.90",266,2,288
+2013,No,8,2013,2,No,,34,No,Yes,Chronic Headache,Cardiology,3,Kimberley Cortez,Oncology,"2,020,227.98",408,2,340
+2013,No,8,2013,2,No,,47,No,Yes,Chronic Headache,Cardiology,3,Kimberley Cortez,Oncology,"1,646,711.74",446,4,296
+2013,No,8,2013,3,No,,10,No,No,Chronic Headache,Neurology,4,Uma Conley,Pediatrics,"1,979,156.66",178,2,374
+2013,No,8,2013,3,No,,37,No,No,Chronic Headache,Neurology,4,Uma Conley,Pediatrics,"1,532,709.22",376,2,530
+2013,No,8,2013,4,No,,53,No,Yes,Chronic Headache,Cardiology,3,Imogene Fletcher,Cardiology,"2,231,910.70",316,2,276
+2013,No,8,2013,5,No,,25,No,No,Chronic Headache,Operating Rooms,5,Winifred Sharp,Oncology,"1,115,107.70",142,2,532
+2013,No,8,2013,6,No,,6,No,No,Chronic Headache,Operating Rooms,5,Porter Ware,Surgeon,"1,916,187.14",144,2,600
+2013,No,8,2013,6,No,,19,No,Yes,Chronic Headache,Cardiology,3,Porter Ware,Surgeon,"1,292,583.90",118,2,402
+2013,No,8,2013,6,No,,40,No,No,Chronic Headache,Neurology,4,Porter Ware,Surgeon,"4,156,916.32",468,4,592
+2013,No,8,2013,7,No,,25,No,Yes,Chronic Headache,Operating Rooms,5,Janna Pennington,Cardiology,"2,555,716.90",154,2,532
+2013,No,8,2013,7,No,,40,No,Yes,Chronic Headache,Neurology,4,Janna Pennington,Cardiology,"2,300,589.38",372,2,296
+2013,No,8,2013,8,No,,4,No,Yes,Chronic Headache,Pediatrics,2,Paki Zimmerman,Pediatrics,"1,245,609.70",378,2,312
+2013,No,8,2013,8,No,,44,No,No,Chronic Headache,Cardiology,3,Paki Zimmerman,Pediatrics,"2,391,331.70",180,2,228
+2013,No,8,2013,9,No,,12,No,No,Chronic Headache,Neurology,4,Jermaine Vaughn,Emergency Room,"1,450,998.80",310,2,244
+2013,No,8,2013,9,No,,14,No,Yes,Chronic Headache,Oncology,1,Jermaine Vaughn,Emergency Room,"928,921.72",230,2,260
+2013,No,8,2013,9,No,,18,No,No,Chronic Headache,Cardiology,3,Jermaine Vaughn,Emergency Room,"2,586,628.90",442,2,226
+2013,No,8,2013,9,No,,26,No,No,Chronic Headache,Pediatrics,2,Jermaine Vaughn,Emergency Room,"841,627.64",398,4,584
+2013,No,8,2013,9,No,,39,No,No,Chronic Headache,Pediatrics,2,Jermaine Vaughn,Emergency Room,"2,169,480.12",408,2,336
+2013,No,8,2013,9,No,,46,No,Yes,Chronic Headache,Oncology,1,Jermaine Vaughn,Emergency Room,"2,529,678.40",362,2,480
+2013,No,8,2013,9,No,,48,No,Yes,Chronic Headache,Operating Rooms,5,Jermaine Vaughn,Emergency Room,"1,694,790.90",280,2,532
+2013,No,8,2013,11,No,,30,No,No,Chronic Headache,Cardiology,3,Aline Jackson,Emergency Room,"2,245,204.72",122,2,558
+2013,No,9,2013,1,No,,28,No,Yes,Epilepsy,Cardiology,3,Eleanor Freeman,Pediatrics,"2,437,471.84",178,2,490
+2013,No,9,2013,1,No,,41,No,Yes,Epilepsy,Cardiology,3,Eleanor Freeman,Pediatrics,"745,723.98",318,2,394
+2013,No,9,2013,1,No,,47,No,Yes,Epilepsy,Cardiology,3,Eleanor Freeman,Pediatrics,"2,236,897.20",406,4,296
+2013,No,9,2013,2,No,,9,No,Yes,Epilepsy,Operating Rooms,5,Kimberley Cortez,Oncology,"629,686.74",412,2,452
+2013,No,9,2013,2,No,,27,No,No,Epilepsy,Operating Rooms,5,Kimberley Cortez,Oncology,"1,824,175.64",38,2,288
+2013,No,9,2013,2,No,,36,No,No,Epilepsy,Cardiology,3,Kimberley Cortez,Oncology,"1,944,544.80",32,2,468
+2013,No,9,2013,3,No,,4,No,No,Epilepsy,Pediatrics,2,Uma Conley,Pediatrics,"715,400.28",376,2,312
+2013,No,9,2013,3,No,,14,No,Yes,Epilepsy,Oncology,1,Uma Conley,Pediatrics,"531,206.42",32,2,260
+2013,No,9,2013,3,No,,37,No,No,Epilepsy,Neurology,4,Uma Conley,Pediatrics,"744,574.54",384,2,530
+2013,No,9,2013,3,No,,59,No,No,Epilepsy,Neurology,4,Uma Conley,Pediatrics,"551,736.22",342,4,582
+2013,No,9,2013,4,No,,17,No,Yes,Epilepsy,Oncology,1,Imogene Fletcher,Cardiology,"1,666,045.06",330,2,388
+2013,No,9,2013,4,No,,31,No,No,Epilepsy,Neurology,4,Imogene Fletcher,Cardiology,"647,151.10",288,4,340
+2013,No,9,2013,4,No,,59,No,No,Epilepsy,Neurology,4,Imogene Fletcher,Cardiology,"1,588,641.04",406,4,582
+2013,No,9,2013,5,No,,1,No,Yes,Epilepsy,Operating Rooms,5,Winifred Sharp,Oncology,"1,144,767.20",456,2,306
+2013,No,9,2013,5,No,,13,No,Yes,Epilepsy,Cardiology,3,Winifred Sharp,Oncology,"1,229,617.28",20,4,496
+2013,No,9,2013,5,No,,26,No,Yes,Epilepsy,Pediatrics,2,Winifred Sharp,Oncology,"1,563,249.42",322,4,584
+2013,No,9,2013,5,No,,44,No,No,Epilepsy,Cardiology,3,Winifred Sharp,Oncology,"2,004,606.36",208,2,228
+2013,No,9,2013,6,No,,41,No,No,Epilepsy,Cardiology,3,Porter Ware,Surgeon,"524,985.78",374,2,394
+2013,No,9,2013,6,No,,50,No,No,Epilepsy,Oncology,1,Porter Ware,Surgeon,"2,104,252.64",186,2,380
+2013,No,9,2013,7,No,,32,No,No,Epilepsy,Operating Rooms,5,Janna Pennington,Cardiology,"1,781,683.82",332,2,302
+2013,No,9,2013,7,No,,39,No,Yes,Epilepsy,Pediatrics,2,Janna Pennington,Cardiology,"721,975.26",204,2,336
+2013,No,9,2013,7,No,,57,No,No,Epilepsy,Operating Rooms,5,Janna Pennington,Cardiology,"1,966,602.50",346,2,406
+2013,No,9,2013,9,No,,16,No,Yes,Epilepsy,Pediatrics,2,Jermaine Vaughn,Emergency Room,"1,525,483.70",74,2,464
+2013,No,9,2013,9,No,,18,No,Yes,Epilepsy,Cardiology,3,Jermaine Vaughn,Emergency Room,"2,563,325.06",354,2,226
+2013,No,9,2013,10,No,,49,No,Yes,Epilepsy,Oncology,1,Donna Bates,Neurology,"2,562,571.40",70,4,486
+2013,No,9,2013,10,No,,57,No,Yes,Epilepsy,Operating Rooms,5,Donna Bates,Neurology,"1,145,445.66",178,2,406
+2013,No,9,2013,11,No,,17,No,No,Epilepsy,Oncology,1,Aline Jackson,Emergency Room,"2,432,730.68",68,2,388
+2013,No,9,2013,11,No,,30,No,No,Epilepsy,Cardiology,3,Aline Jackson,Emergency Room,"1,051,808.92",458,2,558
+2013,No,9,2013,11,No,,40,No,No,Epilepsy,Neurology,4,Aline Jackson,Emergency Room,"1,217,139.16",226,2,296
+2013,No,9,2013,12,No,,15,No,No,Epilepsy,Oncology,1,Cassady Wells,Oncology,"1,346,407.46",326,4,390
+2013,No,9,2013,12,No,,21,No,Yes,Epilepsy,Neurology,4,Cassady Wells,Oncology,"1,949,698.88",226,2,406
+2013,No,9,2013,12,No,,39,No,Yes,Epilepsy,Pediatrics,2,Cassady Wells,Oncology,"1,093,102.16",380,2,336
+2013,No,9,2013,12,No,,41,No,Yes,Epilepsy,Cardiology,3,Cassady Wells,Oncology,"1,735,320.12",440,2,394
+2013,No,10,2013,1,No,,11,No,Yes,Ear infenction,Oncology,1,Eleanor Freeman,Pediatrics,"1,113,049.16",212,4,436
+2013,No,10,2013,1,No,,22,No,No,Ear infenction,Pediatrics,2,Eleanor Freeman,Pediatrics,"1,451,203.90",40,2,454
+2013,No,10,2013,1,No,,36,No,Yes,Ear infenction,Cardiology,3,Eleanor Freeman,Pediatrics,"1,491,337.72",208,2,468
+2013,No,10,2013,1,No,,39,No,Yes,Ear infenction,Pediatrics,2,Eleanor Freeman,Pediatrics,"1,880,489.40",158,2,336
+2013,No,10,2013,1,No,,43,No,No,Ear infenction,Neurology,4,Eleanor Freeman,Pediatrics,"1,526,422.98",36,2,502
+2013,No,10,2013,2,No,,30,No,Yes,Ear infenction,Cardiology,3,Kimberley Cortez,Oncology,"2,308,551.94",140,2,558
+2013,No,10,2013,3,No,,20,No,Yes,Ear infenction,Cardiology,3,Uma Conley,Pediatrics,"1,603,447.70",264,2,354
+2013,No,10,2013,3,No,,31,No,No,Ear infenction,Neurology,4,Uma Conley,Pediatrics,"1,340,244.52",332,4,340
+2013,No,10,2013,3,No,,36,No,No,Ear infenction,Cardiology,3,Uma Conley,Pediatrics,"1,735,561.38",188,2,468
+2013,No,10,2013,3,No,,38,No,No,Ear infenction,Cardiology,3,Uma Conley,Pediatrics,"1,939,785",358,2,364
+2013,No,10,2013,4,No,,51,No,Yes,Ear infenction,Operating Rooms,5,Imogene Fletcher,Cardiology,"1,402,091.22",248,4,450
+2013,No,10,2013,5,No,,8,No,No,Ear infenction,Neurology,4,Winifred Sharp,Oncology,"1,655,146.28",376,2,576
+2013,No,10,2013,5,No,,9,No,Yes,Ear infenction,Operating Rooms,5,Winifred Sharp,Oncology,"1,009,557.26",308,2,452
+2013,No,10,2013,5,No,,27,No,No,Ear infenction,Operating Rooms,5,Winifred Sharp,Oncology,"1,444,130.62",42,2,288
+2013,No,10,2013,6,No,,19,No,Yes,Ear infenction,Cardiology,3,Porter Ware,Surgeon,"1,869,901.60",178,2,402
+2013,No,10,2013,6,No,,57,No,Yes,Ear infenction,Operating Rooms,5,Porter Ware,Surgeon,"1,376,028.84",280,2,406
+2013,No,10,2013,7,No,,10,No,No,Ear infenction,Neurology,4,Janna Pennington,Cardiology,"1,930,234.98",226,2,374
+2013,No,10,2013,8,No,,17,No,No,Ear infenction,Oncology,1,Paki Zimmerman,Pediatrics,"1,729,573.38",250,2,388
+2013,No,10,2013,9,No,,38,No,Yes,Ear infenction,Cardiology,3,Jermaine Vaughn,Emergency Room,"1,738,328.28",42,2,364
+2013,No,10,2013,10,No,,34,No,No,Ear infenction,Cardiology,3,Donna Bates,Neurology,"1,552,852.62",412,2,340
+2013,No,10,2013,10,No,,41,No,No,Ear infenction,Cardiology,3,Donna Bates,Neurology,"2,598,654.18",130,2,394
+2013,No,10,2013,10,No,,54,No,Yes,Ear infenction,Pediatrics,2,Donna Bates,Neurology,"2,590,800.46",356,4,326
+2013,No,10,2013,11,No,,6,No,Yes,Ear infenction,Operating Rooms,5,Aline Jackson,Emergency Room,"2,095,800.90",460,2,600
+2013,No,10,2013,11,No,,12,No,Yes,Ear infenction,Neurology,4,Aline Jackson,Emergency Room,"1,296,481.62",248,2,244
+2013,No,10,2013,12,No,,1,No,No,Ear infenction,Operating Rooms,5,Cassady Wells,Oncology,"1,361,252.78",76,2,306
+2013,No,10,2013,12,No,,8,No,No,Ear infenction,Neurology,4,Cassady Wells,Oncology,"1,047,633.04",318,2,576
+2013,No,10,2013,12,No,,27,No,No,Ear infenction,Operating Rooms,5,Cassady Wells,Oncology,"1,240,748.06",248,2,288
+2013,No,10,2013,12,No,,34,No,No,Ear infenction,Cardiology,3,Cassady Wells,Oncology,"514,351.34",442,2,340
+2013,No,10,2013,12,No,,51,No,No,Ear infenction,Operating Rooms,5,Cassady Wells,Oncology,"2,149,934.44",120,4,450
+2013,No,11,2013,1,No,,2,No,Yes,Diabetes,Oncology,1,Eleanor Freeman,Pediatrics,"1,273,840.54",208,2,596
+2013,No,11,2013,1,No,,42,No,Yes,Diabetes,Oncology,1,Eleanor Freeman,Pediatrics,"1,989,615.16",228,2,226
+2013,No,11,2013,2,No,,7,No,No,Diabetes,Oncology,1,Kimberley Cortez,Oncology,"1,256,489.30",52,2,564
+2013,No,11,2013,3,No,,26,No,Yes,Diabetes,Pediatrics,2,Uma Conley,Pediatrics,"1,736,860.86",62,4,584
+2013,No,11,2013,3,No,,49,No,Yes,Diabetes,Oncology,1,Uma Conley,Pediatrics,"600,749.02",324,4,486
+2013,No,11,2013,4,No,,60,No,No,Diabetes,Cardiology,3,Imogene Fletcher,Cardiology,"1,779,656.16",70,4,314
+2013,No,11,2013,5,No,,15,No,Yes,Diabetes,Oncology,1,Winifred Sharp,Oncology,"1,014,383.46",442,4,390
+2013,No,11,2013,5,No,,23,No,No,Diabetes,Neurology,4,Winifred Sharp,Oncology,"2,178,662.74",418,2,620
+2013,No,11,2013,5,No,,36,No,Yes,Diabetes,Cardiology,3,Winifred Sharp,Oncology,"1,905,717.28",82,2,468
+2013,No,11,2013,6,No,,25,No,No,Diabetes,Operating Rooms,5,Porter Ware,Surgeon,"1,373,845.44",414,2,532
+2013,No,11,2013,6,No,,47,No,No,Diabetes,Cardiology,3,Porter Ware,Surgeon,"2,290,116.52",72,4,296
+2013,No,11,2013,7,No,,23,No,No,Diabetes,Neurology,4,Janna Pennington,Cardiology,"2,207,877.20",192,2,620
+2013,No,11,2013,10,No,,9,No,No,Diabetes,Operating Rooms,5,Donna Bates,Neurology,"1,694,847.66",354,2,452
+2013,No,11,2013,10,No,,10,No,Yes,Diabetes,Neurology,4,Donna Bates,Neurology,"1,068,857.78",130,2,374
+2013,No,11,2013,11,No,,13,No,No,Diabetes,Cardiology,3,Aline Jackson,Emergency Room,"1,853,367.60",232,4,496
+2013,No,11,2013,11,No,,45,No,Yes,Diabetes,Oncology,1,Aline Jackson,Emergency Room,"1,807,109.82",438,4,240
+2013,No,11,2013,11,No,,48,No,Yes,Diabetes,Operating Rooms,5,Aline Jackson,Emergency Room,"2,298,546.66",4,2,532
+2013,No,11,2013,12,No,,55,No,Yes,Diabetes,Operating Rooms,5,Cassady Wells,Oncology,"1,198,519.24",86,4,244
+2013,No,12,2013,1,No,,40,No,Yes,Radiotheraphy,Neurology,4,Eleanor Freeman,Pediatrics,"1,456,025.10",38,2,296
+2013,No,12,2013,2,No,,16,No,Yes,Radiotheraphy,Pediatrics,2,Kimberley Cortez,Oncology,"2,516,356.92",384,2,464
+2013,No,12,2013,3,No,,39,No,No,Radiotheraphy,Pediatrics,2,Uma Conley,Pediatrics,"1,278,084.02",418,2,336
+2013,No,12,2013,4,No,,30,No,Yes,Radiotheraphy,Cardiology,3,Imogene Fletcher,Cardiology,"1,647,737.44",10,2,558
+2013,No,12,2013,4,No,,51,No,Yes,Radiotheraphy,Operating Rooms,5,Imogene Fletcher,Cardiology,"1,944,471.28",248,4,450
+2013,No,12,2013,5,No,,9,No,No,Radiotheraphy,Operating Rooms,5,Winifred Sharp,Oncology,"1,673,630.74",444,2,452
+2013,No,12,2013,5,No,,9,No,Yes,Radiotheraphy,Operating Rooms,5,Winifred Sharp,Oncology,"1,201,971.64",274,2,452
+2013,No,12,2013,6,No,,6,No,Yes,Radiotheraphy,Operating Rooms,5,Porter Ware,Surgeon,"2,023,960.46",178,2,600
+2013,No,12,2013,6,No,,14,No,No,Radiotheraphy,Oncology,1,Porter Ware,Surgeon,"584,264.98",298,2,260
+2013,No,12,2013,6,No,,30,No,Yes,Radiotheraphy,Cardiology,3,Porter Ware,Surgeon,"1,651,439.46",462,2,558
+2013,No,12,2013,7,No,,15,No,Yes,Radiotheraphy,Oncology,1,Janna Pennington,Cardiology,"2,572,620.64",196,4,390
+2013,No,12,2013,7,No,,28,No,Yes,Radiotheraphy,Cardiology,3,Janna Pennington,Cardiology,"2,556,292.28",396,2,490
+2013,No,12,2013,7,No,,39,No,Yes,Radiotheraphy,Pediatrics,2,Janna Pennington,Cardiology,"1,952,394.74",222,2,336
+2013,No,12,2013,8,No,,25,No,No,Radiotheraphy,Operating Rooms,5,Paki Zimmerman,Pediatrics,"1,629,432.24",328,2,532
+2013,No,12,2013,8,No,,47,No,Yes,Radiotheraphy,Cardiology,3,Paki Zimmerman,Pediatrics,"1,885,893.10",36,4,296
+2013,No,12,2013,9,No,,25,No,Yes,Radiotheraphy,Operating Rooms,5,Jermaine Vaughn,Emergency Room,"1,894,153.48",102,2,532
+2013,No,12,2013,10,No,,5,No,No,Radiotheraphy,Cardiology,3,Donna Bates,Neurology,"1,139,717.88",36,2,202
+2013,No,12,2013,10,No,,29,No,No,Radiotheraphy,Operating Rooms,5,Donna Bates,Neurology,"904,872.74",422,2,212
+2013,No,12,2013,10,No,,47,No,No,Radiotheraphy,Cardiology,3,Donna Bates,Neurology,"1,909,247.44",302,4,296
+2013,No,12,2013,11,No,,25,No,No,Radiotheraphy,Operating Rooms,5,Aline Jackson,Emergency Room,"2,254,388.80",216,2,532
+2013,No,12,2013,11,No,,47,No,Yes,Radiotheraphy,Cardiology,3,Aline Jackson,Emergency Room,"2,285,657.86",62,4,296
+2013,No,12,2013,11,No,,59,No,Yes,Radiotheraphy,Neurology,4,Aline Jackson,Emergency Room,"794,949.48",48,4,582
+2013,No,12,2013,12,No,,17,No,Yes,Radiotheraphy,Oncology,1,Cassady Wells,Oncology,"1,960,551.18",14,2,388
+2013,No,12,2013,12,No,,25,No,No,Radiotheraphy,Operating Rooms,5,Cassady Wells,Oncology,"1,195,187.90",278,2,532
+2013,Yes,1,2013,2,No,,1,No,No,Diabetes,Operating Rooms,5,Kimberley Cortez,Oncology,"565,710.66",244,2,306
+2013,Yes,2,2013,10,No,,2,No,Yes,Chemotheraphy,Oncology,1,Donna Bates,Neurology,"575,292.80",372,2,596
+2013,Yes,6,2013,4,No,,40,No,No,Hypoglycemia,Neurology,4,Imogene Fletcher,Cardiology,"745,997.94",138,2,296
+2013,Yes,6,2013,12,No,,9,No,No,Hypoglycemia,Operating Rooms,5,Cassady Wells,Oncology,"580,438.90",406,2,452
+2013,Yes,7,2013,9,No,,58,No,Yes,EKG,Pediatrics,2,Jermaine Vaughn,Emergency Room,"1,992,804.76",186,4,536
+2013,Yes,9,2013,7,No,,34,No,No,Epilepsy,Cardiology,3,Janna Pennington,Cardiology,"1,452,767.38",420,2,340
+2013,Yes,9,2013,10,No,,33,No,Yes,Epilepsy,Cardiology,3,Donna Bates,Neurology,"638,003.96",400,2,502
+2013,Yes,12,2013,3,No,,45,No,No,Radiotheraphy,Oncology,1,Uma Conley,Pediatrics,"1,983,445.70",258,4,240
+2013,Yes,12,2013,11,No,,12,No,No,Radiotheraphy,Neurology,4,Aline Jackson,Emergency Room,"1,363,805",108,2,244
